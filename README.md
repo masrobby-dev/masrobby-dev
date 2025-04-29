@@ -27,7 +27,7 @@
 
 ## 📫 How to reach me
 - GitHub: [masrobby-dev](https://github.com/masrobby-dev)
-- (Other contacts could be added here if needed)
+- Email: [robprian@gmail.com](mailto:robprian@gmail.com)
 
 ---
 
